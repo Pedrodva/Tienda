@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "category": "Subscripciones",
+    "name": "Pro mensual",
+    "description": "Rutas en grupo, planificación ilimitada y todo el potencial posible de la app",
+    "price": 4.99
+}, {
+    "id": 2,
+    "category": "Subscripciones",
+    "name": "Pro anual",
+    "description": "Todo lo del plan pro mensual con 2 meses gratis",
+    "price": 49.99
+}, {
+    "id": 3,
+    "category": "Subscripciones",
+    "name": "Clubes Pro mensual",
+    "description": "Planificación, biblioteca del club y rutas en grupo para todos los miembros incluida!",
+    "price": 9.99
+}, {
+    "id": 4,
+    "category": "Subscripciones",
+    "name": "Clubes Pro Anual",
+    "description": "Todo el plan de clubes Pro mensual pero con 2 meses gratis!",
+    "price": 99.99
+}]
